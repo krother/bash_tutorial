@@ -15,5 +15,5 @@ Dr. Kristian Rother
 
 ## License
 
-This tutorial is published under the Creative Commons Attribution License 3.0
+This tutorial is published under the Creative Commons Attribution Share-alike License 3.0
 
