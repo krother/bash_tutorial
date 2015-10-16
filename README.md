@@ -3,10 +3,15 @@
 
 **Dr. Kristian Rother**
 
-## What this tutorial is about
+## What this tutorial is about?
 
-This tutorial lets you to learn the basics of the Linux command line. You can learn commands to navigate directories, manipulate files and start other programs. If you have no previous experience with Unix-like systems or know a few commands but would like
-to know more, this tutorial is for you. 
+This tutorial lets you to learn the basics of the Linux command line. You can learn commands to navigate directories, manipulate files and start other programs. If you have no previous experience with Unix-like systems or know a few commands but would like to know more, this tutorial is for you. 
+
+## Can I redistribute it?
+
+This tutorial is published under the Creative Commons Attribution Share-alike License 4.0
+
+You can find the full sources on [https://github.com/krother/Linux_Commandline_Tutorial](https://github.com/krother/Linux_Commandline_Tutorial).
 
 ## Preparations
 
