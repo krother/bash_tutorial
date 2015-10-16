@@ -10,10 +10,9 @@ to know more, this tutorial is for you.
 
 ## Preparations
 
-* Copy the file **Exercises.zip** to a computer with Ubuntu (or some other Linux) installed.
+* Copy the file **Exercises.zip** from [https://github.com/krother/Linux_Commandline_Tutorial/raw/master/Exercises.zip](https://github.com/krother/Linux_Commandline_Tutorial/raw/master/Exercises.zip)) to a computer with Ubuntu (or some other Linux) installed.
 * Unzip the file.
 * Type: 
-
 
     chmod -R a+x unix_tutorial/
     chmod -R a-x unix_tutorial/exercise6/check_permissions
