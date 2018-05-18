@@ -1,17 +1,12 @@
 
 # First steps on the Linux Command Line
 
-**Dr. Kristian Rother**
+
+![Tux](tux.png)
 
 ## What this tutorial is about?
 
 This tutorial lets you learn the basics of the Linux command line. You can learn commands to navigate directories, manipulate files and start other programs. If you have no previous experience with Unix-like systems or know a few commands but would like to know more, this tutorial is for you. 
-
-## Can I redistribute it?
-
-This tutorial is published under the Creative Commons Attribution Share-alike License 4.0
-
-You can find the full sources on [https://github.com/krother/Linux_Commandline_Tutorial](https://github.com/krother/Linux_Commandline_Tutorial).
 
 ## Preparations
 
@@ -31,6 +26,13 @@ You can find the full sources on [https://github.com/krother/Linux_Commandline_T
 ## Your Task
 In this tutorial, you will be looking for a word with 22 characters. All characters are hidden in the exercises below. All exercises can be solved using the Unix command line.
 
-#### Solution
-
 ![solution.png](solution.png)
+
+## License
+
+**(c) 2010 Dr. Kristian Rother**
+
+This tutorial is published under the Creative Commons Attribution Share-alike License 4.0
+
+You can find the full sources on [https://github.com/krother/Linux_Commandline_Tutorial](https://github.com/krother/Linux_Commandline_Tutorial).
+

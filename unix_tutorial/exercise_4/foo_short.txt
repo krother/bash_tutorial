@@ -1,0 +1,34 @@
+
+Master Foo and the End User
+
+On another occasion when Master Foo gave public instruction, an end user, 
+having heard tales of the Master's wisdom, came to him for guidance.
+
+He bowed three times to Master Foo. “I wish to learn the Great Way of Unix,” 
+he said “but the command line confuses me.”
+
+Some of the onlooking neophytes began to mock the end user, saying that 
+the Way of Unix is only for those of discipline and intelligence.
+
+The Master held up a hand for silence, and turned to the end-user. 
+“Tell me,” he inquired, “why do you seek the Way?”
+
+“I am discontent with the software I see around me,” the end user replied. 
+“It neither performs reliably nor pleases the eye and hand. Having heard 
+that the Unix way, though difficult, is superior, I seek to cast aside 
+all delusions.”
+
+“And what do you do in the world,” asked Master Foo, 
+“that you must strive with software?”
+
+“I am a builder,” the end user replied, “Many of the houses of this town 
+were made under my chop.”
+
+Master Foo turned back to the neophyte. “The housecat may mock the tiger,” 
+said the master, “but doing so will not make his purr into a roar.”
+
+Upon hearing this, the neophyte was enlightened.
+
+
+Copyright © 2003 Eric S. Raymond
+

@@ -1,0 +1,23 @@
+#!/usr/bin/env python
+
+import re, os, sys
+
+for fn in os.listdir('.'):
+    if fn=='text_file_check': continue
+    text = open(fn).read()
+    if text.lower().find('please give me solution 2.2')>-1:
+        print("""
+Your file '{}' was found to contain the correct phrase.
+
+The sixth character is '{}'.
+""".format(fn, chr(79)))
+        sys.exit(1)
+
+print("""
+Sorry, no file containing the phrase 
+
+"Please give me solution 2.2" 
+
+was found in the directory {}
+""".format(os.getcwd()))
+

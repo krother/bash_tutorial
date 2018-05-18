@@ -1,0 +1,27 @@
+#!/usr/bin/env python
+
+import re, os, sys
+
+os.system('df > 111')
+text = open('111').read()
+os.remove('111')
+
+root = re.findall("\s(\d+)\%\s\/\s*\n",text)[0]
+
+answer = input("""
+Please enter how many percent of the root disk ('/') are full.
+""")
+
+if answer == root or answer == root+'%':
+    print("""
+Correct. 
+
+The 18th character is '{}'.
+""".format(chr(78)))
+
+else:
+    print("""
+Sorry, please try again.
+""")
+
+
