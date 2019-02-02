@@ -18,6 +18,8 @@ systems or know a few commands but would like to know more, this tutorial is for
 Cygwin and the Git bash as well, given that Python 3 is installed on
 your system.*
 
+----
+
 ## Goal
 
 In this tutorial, you will be looking for a word with 22 characters:
@@ -29,8 +31,10 @@ All characters are hidden in the exercises below.
 ## Preparations
 
 * clone the repository 
-* locate the  `exercises/` folder
+* find the  `exercises/` folder
 * open a `bash` terminal
+
+----
 
 ## 1. Directories and files
 
@@ -112,6 +116,8 @@ few characters. Unix tries to guess what you are typing.
 
 </div>
 
+----
+
 ## 2. Edit text files
 
 Please use `cd ..` to go back to the top directory of the tutorial
@@ -155,6 +161,8 @@ man <command>
 You get shown a help page that you can leave by pressing 'q'.
 
 </div>
+
+----
 
 ## 3. Copy and remove files
 
@@ -224,6 +232,8 @@ type the wrong directory by accident). Backups become an even better
 idea after learning this command.
 
 </div>
+
+----
 
 ## 4. Process text data
 
@@ -295,6 +305,7 @@ The last two exercises may not work on Git Bash.
 
 </div>
 
+----
 
 ## 5. Unzip files
 
@@ -340,6 +351,8 @@ gzip backup.tar
 ```
 
 </div>
+
+----
 
 ## 6. Command-line tools
 
@@ -498,6 +511,8 @@ kill -s 9 <pid>
 You find the pid number in the first column of the *top* output. Of
 course, you may only interrupt your own programs, not those owned by
 *root*, the system administrator.
+
+----
 
 ### License
 
