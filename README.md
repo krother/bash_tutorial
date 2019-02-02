@@ -110,7 +110,11 @@ of the last modification.
 
 To obtain the fourth character look up the file size in the [Table of
 printable ASCII
-characters](https://en.wikipedia.org/wiki/ASCII#Printable_characters).
+characters](https://en.wikipedia.org/wiki/ASCII#Printable_characters):
+
+![](ASCII-Table-wide.svg)
+
+*ASCII Table, Public Domain*
 
 <div class="admonition hint">
 
