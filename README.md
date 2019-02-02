@@ -18,8 +18,7 @@ systems or know a few commands but would like to know more, this tutorial is for
 Cygwin and the Git bash as well, given that Python 3 is installed on
 your system.*
 
-Goal
-----
+## Goal
 
 In this tutorial, you will be looking for a word with 22 characters:
 
