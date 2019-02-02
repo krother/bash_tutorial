@@ -26,16 +26,13 @@ In this tutorial, you will be looking for a word with 22 characters:
 
 All characters are hidden in the exercises below.
 
-Preparations
-------------
+## Preparations
 
-All exercises can be solved using a **Unix terminal** (including Mac) or
-**git Bash** on Windows.
+* clone the repository 
+* locate the  `exercises/` folder
+* open a `bash` terminal
 
--   Clone the repository.
-
-1. Directories and files
-------------------------
+## 1. Directories and files
 
 ### 1.1. Navigating directories
 
@@ -115,8 +112,7 @@ few characters. Unix tries to guess what you are typing.
 
 </div>
 
-2. Edit text files
-------------------
+## 2. Edit text files
 
 Please use `cd ..` to go back to the top directory of the tutorial
 material. Then, change to the directory `exercise_2`.
@@ -160,8 +156,7 @@ You get shown a help page that you can leave by pressing 'q'.
 
 </div>
 
-3. Copy and remove files
-------------------------
+## 3. Copy and remove files
 
 Please go to the directory exercise\_3.
 
@@ -230,8 +225,7 @@ idea after learning this command.
 
 </div>
 
-4. Process text data
---------------------
+## 4. Process text data
 
 Please go to the directory exercise\_4.
 
@@ -302,8 +296,7 @@ The last two exercises may not work on Git Bash.
 </div>
 
 
-5. Unzip files
---------------
+## 5. Unzip files
 
 Please go to the directory exercise\_5.
 
@@ -348,8 +341,7 @@ gzip backup.tar
 
 </div>
 
-6. Command-line tools
----------------------
+## 6. Command-line tools
 
 Please go to the directory `exercise_6`.
 
@@ -507,8 +499,7 @@ You find the pid number in the first column of the *top* output. Of
 course, you may only interrupt your own programs, not those owned by
 *root*, the system administrator.
 
-License
--------
+### License
 
 **© 2010 Dr. Kristian Rother**
 
@@ -518,16 +509,14 @@ Share-alike License 4.0
 You can find the full sources on
 [<https://github.com/krother/bash_tutorial>](https://github.com/krother/bash_tutorial).
 
-Acknowledgements
-----------------
+### Acknowledgements
 
 I thank Janusz M. Bujnicki, Allegra Via, Pedro Fernandes and Joachim
 Jacob for their help with testing and reviewing the material. Further
 thanks go to the German Academic Exchange Service (DAAD) for financial
 support.
 
-Contact
--------
+### Contact
 
 Dr. Kristian Rother
 
