@@ -28,11 +28,14 @@ All characters are hidden in the exercises below.
 
 ## Preparations
 
-* clone the repository 
+* clone the repository
 * locate the  `exercises/` folder
 * open a `bash` terminal
 
+![](preparations.png)
+
 ## 1. Directories and files
+
 
 ### 1.1. Navigating directories
 
