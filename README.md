@@ -30,7 +30,7 @@ All characters are hidden in the exercises below.
 
 ## Preparations
 
-* clone the repository
+* clone the repository or download the code as a ZIP file
 * locate the  `exercises/` folder
 * open a `bash` terminal
 
