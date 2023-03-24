@@ -154,7 +154,7 @@ nano <filename>
 
 Create a text file with the characters you have found so far.
 
-The **seventh character** is the one you need to press to save a file in
+The **sixth character** is the one you need to press to save a file in
 `nano`.
 
 <div class="admonition hint">
