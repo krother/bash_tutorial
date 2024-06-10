@@ -280,7 +280,7 @@ To store the sorted lines in a new file, you can add an output file,
 like
 
 ``` {.sourceCode .bash}
-less <filename> | sort > result.txt
+less <filename> | sort -f > result.txt
 ```
 
 </div>
