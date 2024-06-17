@@ -523,7 +523,7 @@ course, you may only interrupt your own programs, not those owned by
 
 ### License
 
-**© 2010 Dr. Kristian Rother**
+**© 2024 Dr. Kristian Rother**
 
 This tutorial is published under the Creative Commons Attribution
 Share-alike License 4.0
@@ -532,6 +532,8 @@ You can find the full sources on
 [<https://github.com/krother/bash_tutorial>](https://github.com/krother/bash_tutorial).
 
 ### Acknowledgements
+
+Thanks to many students for using the tutorial in practice and finding bugs. Thanks to `@zulcas` for contributing bugfixes.
 
 I thank Janusz M. Bujnicki, Allegra Via, Pedro Fernandes and Joachim
 Jacob for their help with testing and reviewing the material. Further
