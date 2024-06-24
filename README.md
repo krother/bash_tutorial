@@ -542,8 +542,4 @@ support.
 
 ### Contact
 
-Dr. Kristian Rother
-
-[krother@academis.eu](krother@academis.eu)
-
-[www.academis.eu](www.academis.eu)
+`kristian.rother@posteo.de`
