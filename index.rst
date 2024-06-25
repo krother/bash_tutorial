@@ -28,7 +28,7 @@ Contents
 .. toctree::
    :maxdepth: 2
    
-   tutorial_part1.rst
+   tutorial.rst
    extra_challenges.rst
    learning_path.md
    
