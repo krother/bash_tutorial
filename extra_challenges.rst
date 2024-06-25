@@ -1,5 +1,5 @@
-Extra Challenges
-================
+Challenges
+==========
 
 Fruit Pipes
 -----------
@@ -22,30 +22,31 @@ The Locked Chest
 6. Hide the chamber by renaming it to ``.secret_chamber/``
 7. Read the contents of the chest
 
-Hello Bash Script
------------------
+Hello World with Bash
+---------------------
 
+Hello with a shell script
++++++++++++++++++++++++++
 1. Write a bash script ``hello.sh`` that prints ‘Hello World’
 2. Execute the program with ``source hello.sh``
 
-Hello Environment
------------------
+Hello with environment variables
+++++++++++++++++++++++++++++++++
 
 1. Store the path+filename of ``hello.sh`` in the environment variable ``HELLO``
 2. Execute the program with ``source $HELLO``
 
-Hello 10x
----------
+Hello repeat
+++++++++++++
 
 1. Modify ``hello.sh`` to print a message given as an command-line
    argument (accessible via ``$1``)
 2. Test the script with ``source hello.sh 'Hello World``
-3. Write another bash script that launches ``hello.sh`` 10 times with
-   different messages
+3. Write another bash script that launches ``hello.sh`` 10 times with different messages
 4. Execute everything
 
-Hello, Goodbye
---------------
+Hello goodbye
++++++++++++++
 
 1. Modify ``hello.sh`` to repeat the message every 10 seconds
 2. Launch the script
