@@ -111,13 +111,13 @@ To obtain the fourth character look up the file size in the
 ------------------
 
 Please use ``cd ..`` to go back to the top directory of the tutorial
-material. Then, change to the directory ``exercise_2``.
+material. Then, change to the directory ``exercise_2/``.
 
 2.1. See what is in a text file
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-In the directory *exercise_2/*, you will find a text file
-*solution_2.1.txt*. The **fifth character** is inside that file. To see
+In the directory ``exercise_2/``, you will find a text file
+``solution_2.1.txt``. The **fifth character** is inside that file. To see
 its contents, use the command
 
 .. code:: bash
@@ -192,7 +192,7 @@ To do so, use the command:
 
    rm <filename>
 
-Also, there are more files to be deleted in the *data* directory. To
+Also, there are more files to be deleted in the ``data/`` directory. To
 remove more than one file at once, you can use ``*`` as a wildcard, i.e.
 ``rm ju*`` will delete all of ``junk.txt, juniper.txt`` and
 ``june.docx``.
@@ -304,27 +304,27 @@ Please go to the directory ``exercise_5/``.
 ~~~~~~~~~~~~~~~~~~~~~
 
 Unzipping compressed files is a very basic and important task. On Unix,
-you often encounter WinZip archives, `.tar` archives and `.gz` compressed
-files. For unpacking Win zip files, use
+you often encounter ``.zip`` archives, ``.tar`` archives and ``.gz`` compressed
+files. For unpacking zip files, use
 
 .. code:: bash
 
    unzip <filename>
 
-for .tar and .tar.gz files
+for ``.tar`` and ``.tar.gz`` files
 
 .. code:: bash
 
    tar -xf <filename>
 
-and for .gz files,
+and for ``.gz`` files,
 
 .. code:: bash
 
    gunzip <filename>
 
 The **14th and 15th character** of the solution are in a multiply
-wrapped archive in the exercise_5 directory.
+wrapped archive in the ``exercise_5/`` directory.
 
 .. note::
 
@@ -404,7 +404,7 @@ program. Find out how to do that with:
 
    df --help
 
-The solution is the last character of the first authors’ first name.
+The solution is the last character of the first authors first name.
 
 6.3. Set an environment variable
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -449,7 +449,7 @@ Find out the **characters position in the alphabet** with:
 
 The easiest way to check from the Unix command line whether the internet
 connection works, is to send a request to a known server (e.g.
-www.spiced-academy.com) using the command
+`https://www.academis.eu <https://www.academis.eu>`__) using the command
 
 .. code:: bash
 
@@ -479,8 +479,8 @@ To see what programs are running on your machine, type
 
    top
 
-It displays you a list of all currently active programs. *Shift+P* sorts
-them by the CPU time they are using, *Shift+M* by the amount of memory
+It displays you a list of all currently active programs. ``Shift+P`` sorts
+them by the CPU time they are using, ``Shift+M`` by the amount of memory
 they are using (if you don’t see any program consuming lots of memory,
 start a web browser). Quit ``top`` by pressing *q*.
 
@@ -496,7 +496,7 @@ of the second word in the line containing the column labels.
 
       kill -s 9 <pid>
 
-You find the pid number in the first column of the *top* output. Of
+You find the pid number in the first column of the ``top`` output. Of
 course, you may only interrupt your own programs, not those owned by
 *root*, the system administrator.
 
