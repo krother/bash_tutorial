@@ -1,7 +1,7 @@
 The Bash Command Line
 =====================
 
-![*Tux, the Linux penguin*](tux.png)
+![*Tux, the Linux penguin*](images/tux.png)
 
 This tutorial makes you familiar with **bash**, the Linux command line. You will learn to:
 
@@ -24,7 +24,7 @@ your system.*
 
 In this tutorial, you will be looking for a word with 22 characters:
 
-![](solution.png)
+![](images/solution.png)
 
 All characters are hidden in the exercises below.
 
